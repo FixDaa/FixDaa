@@ -13,15 +13,15 @@
 
 - 💬 Ask me about **Unity Game Development - Python - JS,HTML,CSS**
 
-- 📫 How to reach me **mail or Linkedin**
+- 📫 How to reach me **Mail - Upwork **
 
 - ⚡ Fun fact **Playing Games**
 
 <p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagame&layout=compact&hide=html" alt="tolgagame" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fixdaa&layout=compact&hide=html" alt="fixdaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgagame&show_icons=true" alt="tolgagame" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fixdaa&show_icons=true" alt="fixdaa" /></p>
 
 <p align="center">
 <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cptnaed" height="30" width="30" /></a>
