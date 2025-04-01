@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **algorithm and coding**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TolgaGame?tab=repositories](https://github.com/FixDaa?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/FixDaa?tab=repositories](https://github.com/FixDaa?tab=repositories)
 
 - 💬 Ask me about **Unity Game Development - Python - JS,HTML,CSS**
 
