@@ -13,9 +13,8 @@
 
 - 💬 Ask me about **Unity Game Development - Python - JS,HTML,CSS**
 
-- 📫 How to reach me **Mail - Upwork **
+- 📫 How to reach me **Mail - Upwork**
 
-- ⚡ Fun fact **Playing Games**
 
 <p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
 
