@@ -16,7 +16,7 @@
 - 📫 How to reach me **Mail - Upwork**
 
 
-<p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
+<p align="left"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/><img   <img src="https://coryrylan.com/assets/images/posts/types/firebase-800x800.png" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fixdaa&layout=compact&hide=html" alt="fixdaa" /></p>
 
