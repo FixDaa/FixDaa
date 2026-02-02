@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FixDaa?tab=repositories](https://github.com/FixDaa?tab=repositories)
 
-- 💬 Ask me about **Unity Game Development - Python - JS,HTML,CSS**
+- 💬 Ask me about **Unity Game Development - Python**
 
 - 📫 How to reach me **Mail - Upwork**
 
